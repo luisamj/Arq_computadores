@@ -1,10 +1,10 @@
 Taller 1.
 
-1. Escriba los 4 principios de diseño de hardware aprendidos en clase.
+1. Escriba los 4 principios de diseÃ±o de hardware aprendidos en clase.
 	1. la simplicidad favorece la regularidad
-	2. mas pequeño mas rápido
-	3. hacer el caso común primero
-	4. grandes diseños demanadan grandes compromisos
+	2. mas pequeÃ±o mas rÃ¡pido
+	3. hacer el caso comÃºn primero
+	4. grandes diseÃ±os demanadan grandes compromisos
 
 2. Convertir a instrucciones de bajo nivel.
 
@@ -100,12 +100,11 @@ add %g0,%l7,O0
 5. Inicializar las siguientes variables negativas usando OR.
 n=-12,
 	or %g0,-12,%l1
-	or %g0,%l1,O0
+	
 
 a=-11,
 	or %g0,-11,%l2
-	or %g0,%l2,O1
-
+	
 b=-14,
 	or %g0,-14,%l3
-	or %g0,%l3,O2
+
